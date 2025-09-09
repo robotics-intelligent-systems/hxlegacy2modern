@@ -1,2 +1,3 @@
-# hx-legacy2modern
-An open-source AI agent that modernizes legacy code from one development framework to another
+# hxlegacy2modern
+
+An open-source AI agent that modernizes legacy code from one development framework to another. While using a polyglot translator like the Haxe framework or SQLines allows us to obtain an equivalent solution, this alternative solution is not always completely satisfactory, requiring a customized implementation or package for each case, including the use of free low-code generation libraries or design with GeneXus to obtain a new version of a legacy system with a different framework. This is the case with the HMS OpenClinicGA to Struts and Openkoda or the popular ERP Odoo to the GraalVM platform, among other priorities.
